@@ -30,6 +30,31 @@ To Run, use the following Command
 go run main.go
 ```
 
+### Commands
+
+*Hello:*
+```bash 
+@slack-giphy Hello, I am <Name>
+```
+<img src="https://github.com/8rxn/slack-gif-bot/assets/75237697/62eb071c-e214-4f2a-97da-382f1bc0e2a6" width={100} />
+
+---
+
+*Gif with text:*
+```bash 
+@slack-giphy Give me a gif of <prompt>
+```
+<img src="https://github.com/8rxn/slack-gif-bot/assets/75237697/64c3af2d-9d97-4857-a3c3-7d74e38ec330" width={100} />
+
+---
+
+*Direct prompt:*
+```bash 
+@slack-giphy <prompt>
+```
+<img src="https://github.com/8rxn/slack-gif-bot/assets/75237697/03d82da0-ecff-4bba-a830-f698a5cba30e" width={100} />
+
+
 ## Contributing
 
 Contributions are welcome! If you wish to contribute to this project, please follow these steps:
